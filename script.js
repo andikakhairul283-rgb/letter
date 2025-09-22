@@ -1,4 +1,4 @@
-const message = `Ciee yang udaa maw jadi maba UI hihi,\nicaaa semangaat teruss yaaa cantikk, yukk kita bantai bantai utbk sheess.\n\nabang sebenernyaa bingung mauu ngetik apaa huhu. pokoknya icaa semangat truss, dan hargai prosesnya yeayy\n\nkalauu adekk ngerasa stuck atau lelah, jangan berhenti, ingatt ada abang disini okay? truss cerita sama abang yaa hihi\n\n kita semua bolee capee,\n kitaa boleh bgd ngeluh,\n tapi harus ingettt  \nkita gabole nyerah okay?\n i'll always support u.\n \nwith love, Andika.
+const message = `Ciee yang udaa maw jadi maba UI hihi,\nicaaa semangaat teruss yaaa cantikk, yukk kita bantai bantai utbk sheess.\n\nabang sebenernyaa bingung mauu ngetik apaa huhu. pokoknya icaa semangat truss, dan hargai prosesnya yeayy\n\nkalauu adekk ngerasa stuck atau lelah, jangan berhenti, ingatt ada abang disini okay? truss cerita sama abang yaa hihi\n\n kita semua bolee capee,\n kitaa boleh bgd ngeluh,\n tapi harus ingettt  \nkita gabole nyerah okay?\ni'll always support u.\n \nwith love, Andika.
 `;
 
 function showLetter() {
@@ -23,3 +23,4 @@ function showLetter() {
   }, 600);
 
 }
+
